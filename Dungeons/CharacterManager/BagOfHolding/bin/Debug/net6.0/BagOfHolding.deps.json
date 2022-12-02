@@ -7,14 +7,40 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "BagOfHolding/1.0.0": {
+        "dependencies": {
+          "InventoryItems": "1.0.0"
+        },
         "runtime": {
           "BagOfHolding.dll": {}
+        }
+      },
+      "InventoryItems/1.0.0": {
+        "dependencies": {
+          "Item": "1.0.0"
+        },
+        "runtime": {
+          "InventoryItems.dll": {}
+        }
+      },
+      "Item/1.0.0": {
+        "runtime": {
+          "Item.dll": {}
         }
       }
     }
   },
   "libraries": {
     "BagOfHolding/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InventoryItems/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Item/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

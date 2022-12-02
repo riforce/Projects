@@ -1,0 +1,15 @@
+C:\Users\riley\source\repos\Projects\Dungeons\CharacterManager\InventoryItems\bin\Debug\net6.0\InventoryItems.deps.json
+C:\Users\riley\source\repos\Projects\Dungeons\CharacterManager\InventoryItems\bin\Debug\net6.0\InventoryItems.dll
+C:\Users\riley\source\repos\Projects\Dungeons\CharacterManager\InventoryItems\bin\Debug\net6.0\InventoryItems.pdb
+C:\Users\riley\source\repos\Projects\Dungeons\CharacterManager\InventoryItems\bin\Debug\net6.0\Item.dll
+C:\Users\riley\source\repos\Projects\Dungeons\CharacterManager\InventoryItems\bin\Debug\net6.0\Item.pdb
+C:\Users\riley\source\repos\Projects\Dungeons\CharacterManager\InventoryItems\obj\Debug\net6.0\InventoryItems.csproj.AssemblyReference.cache
+C:\Users\riley\source\repos\Projects\Dungeons\CharacterManager\InventoryItems\obj\Debug\net6.0\InventoryItems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riley\source\repos\Projects\Dungeons\CharacterManager\InventoryItems\obj\Debug\net6.0\InventoryItems.AssemblyInfoInputs.cache
+C:\Users\riley\source\repos\Projects\Dungeons\CharacterManager\InventoryItems\obj\Debug\net6.0\InventoryItems.AssemblyInfo.cs
+C:\Users\riley\source\repos\Projects\Dungeons\CharacterManager\InventoryItems\obj\Debug\net6.0\InventoryItems.csproj.CoreCompileInputs.cache
+C:\Users\riley\source\repos\Projects\Dungeons\CharacterManager\InventoryItems\obj\Debug\net6.0\InventoryItems.csproj.CopyComplete
+C:\Users\riley\source\repos\Projects\Dungeons\CharacterManager\InventoryItems\obj\Debug\net6.0\InventoryItems.dll
+C:\Users\riley\source\repos\Projects\Dungeons\CharacterManager\InventoryItems\obj\Debug\net6.0\refint\InventoryItems.dll
+C:\Users\riley\source\repos\Projects\Dungeons\CharacterManager\InventoryItems\obj\Debug\net6.0\InventoryItems.pdb
+C:\Users\riley\source\repos\Projects\Dungeons\CharacterManager\InventoryItems\obj\Debug\net6.0\ref\InventoryItems.dll

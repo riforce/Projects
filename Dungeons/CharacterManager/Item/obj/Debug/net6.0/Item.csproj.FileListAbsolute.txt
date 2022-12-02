@@ -1,0 +1,12 @@
+C:\Users\riley\source\repos\Projects\Dungeons\CharacterManager\Item\bin\Debug\net6.0\Item.deps.json
+C:\Users\riley\source\repos\Projects\Dungeons\CharacterManager\Item\bin\Debug\net6.0\Item.dll
+C:\Users\riley\source\repos\Projects\Dungeons\CharacterManager\Item\bin\Debug\net6.0\Item.pdb
+C:\Users\riley\source\repos\Projects\Dungeons\CharacterManager\Item\obj\Debug\net6.0\Item.csproj.AssemblyReference.cache
+C:\Users\riley\source\repos\Projects\Dungeons\CharacterManager\Item\obj\Debug\net6.0\Item.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riley\source\repos\Projects\Dungeons\CharacterManager\Item\obj\Debug\net6.0\Item.AssemblyInfoInputs.cache
+C:\Users\riley\source\repos\Projects\Dungeons\CharacterManager\Item\obj\Debug\net6.0\Item.AssemblyInfo.cs
+C:\Users\riley\source\repos\Projects\Dungeons\CharacterManager\Item\obj\Debug\net6.0\Item.csproj.CoreCompileInputs.cache
+C:\Users\riley\source\repos\Projects\Dungeons\CharacterManager\Item\obj\Debug\net6.0\Item.dll
+C:\Users\riley\source\repos\Projects\Dungeons\CharacterManager\Item\obj\Debug\net6.0\refint\Item.dll
+C:\Users\riley\source\repos\Projects\Dungeons\CharacterManager\Item\obj\Debug\net6.0\Item.pdb
+C:\Users\riley\source\repos\Projects\Dungeons\CharacterManager\Item\obj\Debug\net6.0\ref\Item.dll

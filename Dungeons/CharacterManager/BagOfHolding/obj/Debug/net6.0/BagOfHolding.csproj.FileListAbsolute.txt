@@ -10,3 +10,8 @@ C:\Users\riley\source\repos\Projects\Dungeons\CharacterManager\BagOfHolding\obj\
 C:\Users\riley\source\repos\Projects\Dungeons\CharacterManager\BagOfHolding\obj\Debug\net6.0\refint\BagOfHolding.dll
 C:\Users\riley\source\repos\Projects\Dungeons\CharacterManager\BagOfHolding\obj\Debug\net6.0\BagOfHolding.pdb
 C:\Users\riley\source\repos\Projects\Dungeons\CharacterManager\BagOfHolding\obj\Debug\net6.0\ref\BagOfHolding.dll
+C:\Users\riley\source\repos\Projects\Dungeons\CharacterManager\BagOfHolding\bin\Debug\net6.0\InventoryItems.dll
+C:\Users\riley\source\repos\Projects\Dungeons\CharacterManager\BagOfHolding\bin\Debug\net6.0\Item.dll
+C:\Users\riley\source\repos\Projects\Dungeons\CharacterManager\BagOfHolding\bin\Debug\net6.0\InventoryItems.pdb
+C:\Users\riley\source\repos\Projects\Dungeons\CharacterManager\BagOfHolding\bin\Debug\net6.0\Item.pdb
+C:\Users\riley\source\repos\Projects\Dungeons\CharacterManager\BagOfHolding\obj\Debug\net6.0\BagOfHolding.csproj.CopyComplete

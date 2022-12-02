@@ -6,28 +6,28 @@
         protected bool destroyed;
         protected string type;
         protected string description;
+        public int weight;
+        public int value;
         public string name
         {
             get => name; 
             private set { name = value; }
-       }
-public int weight 
-        {
-            get => weight; 
-            private set { weight = value; } 
         }
-   
-        protected  Item(string name, int weight)
+       
+
+        protected  Item(string name)
         {
             equipped = true;
             destroyed= false;
-            type = "";
-            description = "";
+            type = "no type yet";
+            description = "no description yet";
             this.name= name;
-            this.weight = weight;
         }
 
-        protected abstract void SetDescription(string d);
+        protected void SetDescription(string d)
+        {
+            description = d;
+        }
 
         /// <summary>
         /// Unequips the item.
@@ -40,10 +40,7 @@ public int weight
         /// <summary>
         /// Equips the item.
         /// </summary>
-        protected void Equip()
-        {
-            equipped = true;
-        }
+        protected abstract void Equip();
 
         /// <summary>
         /// Destroys the item.
