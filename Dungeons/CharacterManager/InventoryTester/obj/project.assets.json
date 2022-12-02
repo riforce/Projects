@@ -1906,7 +1906,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "InventoryItems": "1.0.0"
+          "InventoryItems": "1.0.0",
+          "Item": "1.0.0"
         },
         "compile": {
           "bin/placeholder/BagOfHolding.dll": {}
@@ -6832,11 +6833,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\riley\\source\\repos\\Projects\\Dungeons\\CharacterManager\\InventoryTester\\InventoryTester.csproj",
+      "projectUniqueName": "C:\\Users\\riley\\Source\\Repos\\Projects\\Dungeons\\CharacterManager\\InventoryTester\\InventoryTester.csproj",
       "projectName": "InventoryTester",
-      "projectPath": "C:\\Users\\riley\\source\\repos\\Projects\\Dungeons\\CharacterManager\\InventoryTester\\InventoryTester.csproj",
+      "projectPath": "C:\\Users\\riley\\Source\\Repos\\Projects\\Dungeons\\CharacterManager\\InventoryTester\\InventoryTester.csproj",
       "packagesPath": "C:\\Users\\riley\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\riley\\source\\repos\\Projects\\Dungeons\\CharacterManager\\InventoryTester\\obj\\",
+      "outputPath": "C:\\Users\\riley\\Source\\Repos\\Projects\\Dungeons\\CharacterManager\\InventoryTester\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6858,14 +6859,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\riley\\source\\repos\\Projects\\Dungeons\\CharacterManager\\BagOfHolding\\BagOfHolding.csproj": {
-              "projectPath": "C:\\Users\\riley\\source\\repos\\Projects\\Dungeons\\CharacterManager\\BagOfHolding\\BagOfHolding.csproj"
+            "C:\\Users\\riley\\Source\\Repos\\Projects\\Dungeons\\CharacterManager\\BagOfHolding\\BagOfHolding.csproj": {
+              "projectPath": "C:\\Users\\riley\\Source\\Repos\\Projects\\Dungeons\\CharacterManager\\BagOfHolding\\BagOfHolding.csproj"
             },
-            "C:\\Users\\riley\\source\\repos\\Projects\\Dungeons\\CharacterManager\\InventoryItems\\InventoryItems.csproj": {
-              "projectPath": "C:\\Users\\riley\\source\\repos\\Projects\\Dungeons\\CharacterManager\\InventoryItems\\InventoryItems.csproj"
+            "C:\\Users\\riley\\Source\\Repos\\Projects\\Dungeons\\CharacterManager\\InventoryItems\\InventoryItems.csproj": {
+              "projectPath": "C:\\Users\\riley\\Source\\Repos\\Projects\\Dungeons\\CharacterManager\\InventoryItems\\InventoryItems.csproj"
             },
-            "C:\\Users\\riley\\source\\repos\\Projects\\Dungeons\\CharacterManager\\Item\\Item.csproj": {
-              "projectPath": "C:\\Users\\riley\\source\\repos\\Projects\\Dungeons\\CharacterManager\\Item\\Item.csproj"
+            "C:\\Users\\riley\\Source\\Repos\\Projects\\Dungeons\\CharacterManager\\Item\\Item.csproj": {
+              "projectPath": "C:\\Users\\riley\\Source\\Repos\\Projects\\Dungeons\\CharacterManager\\Item\\Item.csproj"
             }
           }
         }

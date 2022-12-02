@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0CsNNpUjyaZ4sq2tGlB9L/GdsyX9UxwEtDwSV8Rsa9QVJSRXSj0Z40xzv0PfNJLmTQiPhAKxHKfXFlShV7gc0Q==",
+  "dgSpecHash": "vJywolebkscR6yhW4ceH/KBsaxN5q48SFssXUklhNELoFY2pCtmUkHdq7KgytBhltPwYCgGZCdPsMED6nMRk8w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\riley\\source\\repos\\Projects\\Dungeons\\CharacterManager\\InventoryTester\\InventoryTester.csproj",
+  "projectFilePath": "C:\\Users\\riley\\Source\\Repos\\Projects\\Dungeons\\CharacterManager\\InventoryTester\\InventoryTester.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\riley\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\riley\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\riley\\source\\repos\\Projects\\Dungeons\\CharacterManager\\Item\\Item.csproj": {}
+    "C:\\Users\\riley\\Source\\Repos\\Projects\\Dungeons\\CharacterManager\\Item\\Item.csproj": {}
   },
   "projects": {
-    "C:\\Users\\riley\\source\\repos\\Projects\\Dungeons\\CharacterManager\\Item\\Item.csproj": {
+    "C:\\Users\\riley\\Source\\Repos\\Projects\\Dungeons\\CharacterManager\\Item\\Item.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\riley\\source\\repos\\Projects\\Dungeons\\CharacterManager\\Item\\Item.csproj",
+        "projectUniqueName": "C:\\Users\\riley\\Source\\Repos\\Projects\\Dungeons\\CharacterManager\\Item\\Item.csproj",
         "projectName": "Item",
-        "projectPath": "C:\\Users\\riley\\source\\repos\\Projects\\Dungeons\\CharacterManager\\Item\\Item.csproj",
+        "projectPath": "C:\\Users\\riley\\Source\\Repos\\Projects\\Dungeons\\CharacterManager\\Item\\Item.csproj",
         "packagesPath": "C:\\Users\\riley\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\riley\\source\\repos\\Projects\\Dungeons\\CharacterManager\\Item\\obj\\",
+        "outputPath": "C:\\Users\\riley\\Source\\Repos\\Projects\\Dungeons\\CharacterManager\\Item\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1132,7 +1132,8 @@
       },
       "BagOfHolding/1.0.0": {
         "dependencies": {
-          "InventoryItems": "1.0.0"
+          "InventoryItems": "1.0.0",
+          "Item": "1.0.0"
         },
         "runtime": {
           "BagOfHolding.dll": {}

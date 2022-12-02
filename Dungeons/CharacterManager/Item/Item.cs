@@ -6,13 +6,12 @@
         protected bool destroyed;
         protected string type;
         protected string description;
-        public int weight;
-        public int value;
-        public string name
-        {
-            get => name; 
-            private set { name = value; }
-        }
+        public double  weight;
+        public double  value;
+        public string name;
+        public double cost;
+        public bool magical;
+      
        
 
         protected  Item(string name)
